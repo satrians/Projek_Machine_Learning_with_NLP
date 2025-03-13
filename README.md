@@ -47,7 +47,7 @@ Target Pencapaian:
 ![image](https://github.com/user-attachments/assets/0683c4a1-30af-400f-bb70-30f6be98a16f)
 - Menggunakan train_test_split untuk membagi dataset menjadi dua subset: satu untuk pelatihan (training set) dan satu lagi untuk pengujian (testing set).
 - Untuk kolom yang digunakan untuk membagi subset menjadi dua yaitu kolom target dan kolom cleaned_text
-![image](https://github.com/user-attachments/assets/b2f32e20-2f8e-4a5b-b9f3-8b2998e28227)
+![image](https://github.com/user-attachments/assets/d64c4d0a-a335-4827-88db-3c3a1c7f0162)
 
 # Model Architecture Definition
 - Arsitektur Model
