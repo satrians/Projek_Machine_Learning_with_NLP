@@ -2,7 +2,6 @@
 # Dataset
 ![image](https://github.com/user-attachments/assets/33222fd8-583e-4233-a8e3-85d2bdd887b1)
 Topik Dataset : Disaster Tweets
-Link : Disaster Tweets - Kaggle
 Tentang Dataset : Dataset ini berisi data tweet yang dapat digunakan untuk membangun model klasifikasi teks guna membedakan antara tweet yang berhubungan dengan bencana nyata dan yang tidak berhubungan dengan bencana.
 
 # Latar Belakang dan Masalah
@@ -47,7 +46,7 @@ Target Pencapaian:
 ![image](https://github.com/user-attachments/assets/0683c4a1-30af-400f-bb70-30f6be98a16f)
 - Menggunakan train_test_split untuk membagi dataset menjadi dua subset: satu untuk pelatihan (training set) dan satu lagi untuk pengujian (testing set).
 - Untuk kolom yang digunakan untuk membagi subset menjadi dua yaitu kolom target dan kolom cleaned_text
-![image](https://github.com/user-attachments/assets/d64c4d0a-a335-4827-88db-3c3a1c7f0162)
+
 
 # Model Architecture Definition
 - Arsitektur Model
@@ -75,7 +74,6 @@ Target Pencapaian:
 
 # Model Saving
 Menyimpan model dengan format .h5 (TensorFlow)
-![image](https://github.com/user-attachments/assets/6b522722-aeed-4f55-87fb-dd50d6525b2e)
 
 # Model Deployment
 - Sebelum masuk ke model Deployment, diharuskan mengubah format Tensorflow (.h5) ke dalam file arsip (.tgz) yang dapat digunakan untuk penyimpanan atau transfer file dengan ukuran yang lebih kecil dibandingkan dengan file aslinya.
