@@ -47,7 +47,6 @@ Target Pencapaian:
 - Menggunakan train_test_split untuk membagi dataset menjadi dua subset: satu untuk pelatihan (training set) dan satu lagi untuk pengujian (testing set).
 - Untuk kolom yang digunakan untuk membagi subset menjadi dua yaitu kolom target dan kolom cleaned_text
 
-
 # Model Architecture Definition
 - Arsitektur Model
 - Menggunakan model Deep Learning LSTM (Long Short Term Memory)
