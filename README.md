@@ -40,7 +40,8 @@ Target Pencapaian:
 - Menampilkan jumlah kata pada kolom "cleaned_text"
 - Menampilkan panjang tweet pada kolom "cleaned_text"
 ![image](https://github.com/user-attachments/assets/20620be5-70d0-4c79-9fe7-bfedc7f919d2)
-
+![image](https://github.com/user-attachments/assets/27e012f9-0d76-4bb5-bc1d-f5b619635857)
+![image](https://github.com/user-attachments/assets/2f328e35-1b14-442b-9562-5512094f70b7)
 
 # Feature Engineering
 - Melakukan tokenisasi teks pada kolom cleaned_text
@@ -54,8 +55,7 @@ Target Pencapaian:
 - Memproses data sekuensial (seperti teks) dan mengklasifikasikannya. Lapisan embedding mengubah kata-kata menjadi tokenizer, LSTM menangani hubungan jangka panjang dalam data sekuensial, dan lapisan dense menghasilkan output klasifikasi. Dropout digunakan di beberapa tempat untuk mencegah overfitting.
 - Mengompilasi model jaringan saraf yang telah didefinisikan sebelumnya dengan menetapkan fungsi loss, optimizer, dan metrik evaluasi.
 ![image](https://github.com/user-attachments/assets/b616841d-a8e7-4f05-b284-4b2527e87a79)
-![image](https://github.com/user-attachments/assets/ddf95e9b-7af5-4e9d-a851-cc3c31db0d80)
-![image](https://github.com/user-attachments/assets/1e3f0a39-b517-4803-b327-93556c5c6b9b)
+
 
 # Model Training
 - Pelatihan Model
