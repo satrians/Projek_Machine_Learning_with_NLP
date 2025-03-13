@@ -37,9 +37,9 @@ Target Pencapaian:
 # EDA (Exploratory Data Analysis)
 - Menggunakan WordCloud untuk visualisasi kata-kata yang sering muncul dalam tweet bencana.
 ![image](https://github.com/user-attachments/assets/1ce27351-99be-445c-a6b8-7288f263b4ad)
-Menampilkan distribusi target berdasarkan target
-Menampilkan jumlah kata pada kolom "cleaned_text"
-Menampilkan panjang tweet pada kolom "cleaned_text"
+- Menampilkan distribusi target berdasarkan target
+- Menampilkan jumlah kata pada kolom "cleaned_text"
+- Menampilkan panjang tweet pada kolom "cleaned_text"
 ![image](https://github.com/user-attachments/assets/095f35de-df43-497b-b915-5e63c77f6845)
 
 # Feature Engineering
@@ -50,7 +50,7 @@ Menampilkan panjang tweet pada kolom "cleaned_text"
 ![image](https://github.com/user-attachments/assets/b2f32e20-2f8e-4a5b-b9f3-8b2998e28227)
 
 # Model Architecture Definition
-Arsitektur Model
+- Arsitektur Model
 - Menggunakan model Deep Learning LSTM (Long Short Term Memory)
 - Memproses data sekuensial (seperti teks) dan mengklasifikasikannya. Lapisan embedding mengubah kata-kata menjadi tokenizer, LSTM menangani hubungan jangka panjang dalam data sekuensial, dan lapisan dense menghasilkan output klasifikasi. Dropout digunakan di beberapa tempat untuk mencegah overfitting.
 - Mengompilasi model jaringan saraf yang telah didefinisikan sebelumnya dengan menetapkan fungsi loss, optimizer, dan metrik evaluasi.
@@ -59,13 +59,12 @@ Arsitektur Model
 ![image](https://github.com/user-attachments/assets/1e3f0a39-b517-4803-b327-93556c5c6b9b)
 
 # Model Training
-Pelatihan Model
+- Pelatihan Model
 - Membagi dataset menjadi training dan validation set.
 - Melatih model dengan minimal 20 epoch.
 ![image](https://github.com/user-attachments/assets/9cf1f88c-8997-48dd-80a4-1021d0f8244c)
 
 # Model Evaluasi
-Evaluasi Model
 - Menampilkan diagram loss dan accuracy
 - Menghitung metrik evaluasi seperti accuracy, precision, recall, dan F1-score.
 - Menampilkan classification report dan confusion matrix.
@@ -92,7 +91,7 @@ Menyimpan model dengan format .h5 (TensorFlow)
 ![image](https://github.com/user-attachments/assets/9c8ddb9c-a63d-4bfc-85aa-7bb0ae4629b5)
 
 # Testing
-Mengetes salah satu kalimat pada salah satu kolom dataset untuk menentukan respon dan nilai prediksi
+- Mengetes salah satu kalimat pada salah satu kolom dataset untuk menentukan respon dan nilai prediksi
 ![image](https://github.com/user-attachments/assets/1aadf346-b5eb-4544-9c85-f15644c8dff4)
 
 # Kesimpulan
