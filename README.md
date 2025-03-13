@@ -74,6 +74,7 @@ Target Pencapaian:
 
 # Model Saving
 Menyimpan model dengan format .h5 (TensorFlow)
+![image](https://github.com/user-attachments/assets/d315a91b-c467-4bc9-9da1-6116defa9b16)
 
 # Model Deployment
 - Sebelum masuk ke model Deployment, diharuskan mengubah format Tensorflow (.h5) ke dalam file arsip (.tgz) yang dapat digunakan untuk penyimpanan atau transfer file dengan ukuran yang lebih kecil dibandingkan dengan file aslinya.
