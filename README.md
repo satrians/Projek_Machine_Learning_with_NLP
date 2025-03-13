@@ -39,7 +39,6 @@ Target Pencapaian:
 - Menampilkan distribusi target berdasarkan target
 - Menampilkan jumlah kata pada kolom "cleaned_text"
 - Menampilkan panjang tweet pada kolom "cleaned_text"
-![image](https://github.com/user-attachments/assets/095f35de-df43-497b-b915-5e63c77f6845)
 
 # Feature Engineering
 - Melakukan tokenisasi teks pada kolom cleaned_text
